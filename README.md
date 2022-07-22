@@ -1,5 +1,7 @@
 # Week14-CitiBikeSharing
 
+[Tableau Profile](https://public.tableau.com/app/profile/michael.e.bowman)
+
 NYC Citibike Analysis and Visualization study
 
 The purpose of this analysis is to see if the NYC CitiBike program of bike sharing could be used as a model in determination of a similar program in Des Moines, Iowa. In order to prepare for this analysis, the data that was used within Module 14 for the August 2019 NYC Citibike study was cleansed and then visualized in Tableau. Parameters studied for the new data were based on duration of rides, breakdowns by gender and UserTypes, times when rides took place, and data needed to plan bike maintenance operations. 
