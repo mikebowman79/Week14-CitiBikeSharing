@@ -21,7 +21,7 @@ rides as compared to females (or cyclists not categorized)
 
 In terms of days of the week, the majority of the rides took place on Monday-Tuesday and Thursday Friday time frames.
 
-![image](https://github.com/mikebowman79/Week14-CitiBikeSharing/tree/main/Screenshots//UserTrips.png)
+![See Related Image](https://github.com/mikebowman79/Week14-CitiBikeSharing/tree/main/Screenshots//UserTrips.png)
 
 4.	Trips made by User Type by Weekday: The following heatmap displays that the greatest number of rides were taken by male subscribers during the Monday-Wednesday and Thursday-Friday time frames.
 ![image](https://user-images.githubusercontent.com/101996041/179365400-7b717672-e245-49ef-9fbb-be292585d2d8.png)
