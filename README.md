@@ -36,7 +36,7 @@ On the Bike Utilization chart, by clicking on each individual blue box, a pop-up
 On the Start and Stop Times chart, the heat map displays the number of bike start times; once again the darkest areas on the chart are those in the 8-9 am and 4-6 pm time frames.
 
 These visualizations are important as those bikes with the greatest number of past trips should be scheduled for possible bike maintenance at those times when not in use. This might be during the 12 am-5 am time frame.
-![image](https://github.com/mikebowman79/Week14-CitiBikeSharing/tree/main/Screenshots/Start.StopTimes.png)
+![See image depicting this](https://github.com/mikebowman79/Week14-CitiBikeSharing/tree/main/Screenshots/Start.StopTimes.png)
 
 Visualizations Summary:  The major points to consider after use of the  Citibike data and visualizations were: 
 
