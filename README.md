@@ -21,7 +21,7 @@ rides as compared to females (or cyclists not categorized)
 
 In terms of days of the week, the majority of the rides took place on Monday-Tuesday and Thursday Friday time frames.
 
-![image](https://user-images.githubusercontent.com/101996041/179365352-e8ac753a-5609-4161-a479-f7a5550a7277.png)
+![image](https://github.com/mikebowman79/Week14-CitiBikeSharing/tree/main/Screenshots//UserTrips.png)
 
 4.	Trips made by User Type by Weekday: The following heatmap displays that the greatest number of rides were taken by male subscribers during the Monday-Wednesday and Thursday-Friday time frames.
 ![image](https://user-images.githubusercontent.com/101996041/179365400-7b717672-e245-49ef-9fbb-be292585d2d8.png)
@@ -36,7 +36,7 @@ On the Bike Utilization chart, by clicking on each individual blue box, a pop-up
 On the Start and Stop Times chart, the heat map displays the number of bike start times; once again the darkest areas on the chart are those in the 8-9 am and 4-6 pm time frames.
 
 These visualizations are important as those bikes with the greatest number of past trips should be scheduled for possible bike maintenance at those times when not in use. This might be during the 12 am-5 am time frame.
-![image](https://user-images.githubusercontent.com/101996041/179365476-4b68ce73-44f7-40e2-81ef-53d63d9d1bae.png)
+![image](https://github.com/mikebowman79/Week14-CitiBikeSharing/tree/main/Screenshots/Start.StopTimes.png)
 
 Visualizations Summary:  The major points to consider after use of the  Citibike data and visualizations were: 
 
